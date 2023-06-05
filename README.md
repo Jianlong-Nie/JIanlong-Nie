@@ -62,4 +62,4 @@
 [twitter]: https://twitter.com/JianlongNie
 [linkedin]: https://www.linkedin.com/in/jianlong-nie-2b21a6202
 [gmail]: mailto:niejianlong11@gmail.com
-[upwork]: https://www.upwork.com/freelancers/~01e8865aa693b1478a
+[upwork]: https://www.upwork.com/freelancers/jianlongnie
