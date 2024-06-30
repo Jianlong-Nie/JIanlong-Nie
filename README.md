@@ -45,7 +45,7 @@
 <br/>
 
 <a href="https://github.com/Jianlong-Nie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiennguyen92&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jianlong-Nie&layout=compact&theme=material-palenight" />
 </a>
 
 
