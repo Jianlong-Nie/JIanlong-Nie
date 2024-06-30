@@ -51,8 +51,8 @@
 <hr/>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=hiennguyen92&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/hiennguyen92/hiennguyen92?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Jianlong-Nie&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/Jianlong-Nie/Jianlong-Nie?color=black&logo=github" />
 </p>
 
 
