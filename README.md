@@ -12,7 +12,6 @@
 
 [<img align="left" alt="jianlongnie.com" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chrome.svg" />][website]
 [<img align="left" alt="niejianlong11@gmail.com | Gmail" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
-[<img align="left" alt="Jianlong nie | YouTube" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" />][youtube]
 [<img align="left" alt="jianlong | Twitter" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" />][twitter]
 [<img align="left" alt="jianlong | LinkedIn" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
 
