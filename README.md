@@ -15,6 +15,8 @@
 [<img align="left" alt="Jianlong nie | YouTube" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" />][youtube]
 [<img align="left" alt="jianlong | Twitter" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" />][twitter]
 [<img align="left" alt="jianlong | LinkedIn" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
+
+
 <br/>
 
 ### Languages and Tools:
@@ -43,7 +45,7 @@
 
 <br/>
 
-<a href="https://github.com/hiennguyen92">
+<a href="https://github.com/Jianlong-Nie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiennguyen92&layout=compact&theme=material-palenight" />
 </a>
 
