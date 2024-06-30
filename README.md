@@ -10,10 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hiennv.com" width="28px" src="https://camo.githubusercontent.com/8c25ab07b62e602edf324911042fd70196a308013f736d404fb830e3a765c194/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73616d73756e675f696e7465726e65742e737667" />][website]
-[<img align="left" alt="hien@hiennv.com | Gmail" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
-[<img align="left" alt="hiennvan | Twitter" width="28px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />][twitter]
-[<img align="left" alt="hiennv | LinkedIn" width="28px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
+[<img align="left" alt="jianlongnie.com" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chrome.svg" />][website]
+[<img align="left" alt="niejianlong11@gmail.com | Gmail" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
+[<img align="left" alt="Jianlong nie | YouTube" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" />][youtube]
+[<img align="left" alt="jianlong | Twitter" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" />][twitter]
+[<img align="left" alt="jianlong | LinkedIn" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />][linkedin]
 
 <br/>
 
